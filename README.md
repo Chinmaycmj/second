@@ -1,4 +1,4 @@
 # second
 real learning
 <br>
-Vasudhaiva kutumbakam
+Vasudhaiva kutumbakam.
